@@ -1,0 +1,12 @@
+<launch>
+    <node name="rviz" pkg="rviz" type="rviz"
+        args="-d $(find path_generator)/config/common.rviz"> 
+    </node>
+   
+    <!-- <node pkg="path_generator" type="path_generator_node" name="path_generator_node">
+    </node> -->
+
+    <node pkg="path_generator" type="path_generator_node" name="path_generator_node" output="screen">
+    </node>
+
+</launch>

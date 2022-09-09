@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/build",
+  "command": "/usr/bin/c++   -I\"/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/include\" -I/usr/include/eigen3  -std=c++11 -O3 -Wall -fPIC   -o CMakeFiles/sdqp_collision_distance.dir/example/sdqp_collision_distance.cpp.o -c \"/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/example/sdqp_collision_distance.cpp\"",
+  "file": "/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/example/sdqp_collision_distance.cpp"
+},
+{
+  "directory": "/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/build",
+  "command": "/usr/bin/c++   -I\"/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/include\" -I/usr/include/eigen3  -std=c++11 -O3 -Wall -fPIC   -o CMakeFiles/sdqp_example.dir/example/sdqp_example.cpp.o -c \"/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/example/sdqp_example.cpp\"",
+  "file": "/home/ck1201/workspace/Numerical_Optimization_in_Robotics/HW3/low-dim QP/example/sdqp_example.cpp"
+}
+]
